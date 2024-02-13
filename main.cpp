@@ -6,8 +6,8 @@ int Sum(int a, int b)
 }
 int main()
 {
-  cassert(Sum(5, 5 ) == 10);
-  std::cout<<HelloWorld!";
+  assert(Sum(5, 5 ) == 10);
+  std::cout<<"HelloWorld!";
   return 0;
 }
 
